@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMCAndroid</string>
+
+    <string name="weight_label_text">Weight</string>
+    <string name="height_label_text">Height</string>
+    <string name="result_label_text">BMI</string>
+
+    <string name="weight_hint_text">Your weight</string>
+    <string name="height_hint_text">Your height</string>
+    <string name="result_hint_text">Your BMI</string>
+    
+    <string name="button_text">Calculate your BMI</string>
+    
+    <string name="skinny">You\'re skinny</string>
+    <string name="normal">You\'re normal</string>
+    <string name="fat">You\'re fat</string>
+</resources>
